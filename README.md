@@ -2,6 +2,7 @@
 
 ### 🚀 AI/ML Developer | Software Developer | Problem Solver
 
+🔭 Currently Working on Improving Problem Solving Skills and DSA<br>
 🎓 Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**  
 💻 Passionate about building real-world AI applications, full-stack systems, and intelligent software solutions  
 🌱 Currently exploring **Deep Learning, NLP, Computer Vision, and System Design**  
@@ -11,7 +12,6 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **AI-powered and Full Stack Projects**
 - 🧠 Strong understanding of **Machine Learning, Data Structures & Algorithms, DBMS, OOP, and Operating Systems**
 - 📊 Interested in **Predictive Analytics, Finance AI, NLP, and Intelligent Systems**
 - 🎯 Goal: Become a highly skilled **AI Engineer & Software Developer**
