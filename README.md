@@ -20,7 +20,7 @@
 
 ---
 
-# LeetCode Profile
+# LeetCode Profile Link
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vikas_saini_01/)
 
 # 🛠️ Tech Stack
